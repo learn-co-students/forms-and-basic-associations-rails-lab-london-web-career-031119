@@ -9,6 +9,7 @@ class SongsController < ApplicationController
 
   def new
     @song = Song.new
+    @genres = Genre.all.sort_by{|g| g.name}.map{|g| [g.name, g.id]}
   end
 
   def create
@@ -23,6 +24,7 @@ class SongsController < ApplicationController
 
   def edit
     @song = Song.find(params[:id])
+    @genres = Genre.all.sort_by{|g| g.name}.map{|g| [g.name, g.id]}
   end
 
   def update
@@ -47,7 +49,6 @@ class SongsController < ApplicationController
   private
 
   def song_params
-    params.require(:song).permit(:title)
+    params.require(:song).permit(:title, :artist_name, :genre_id, note_contents: [])
   end
 end
-
