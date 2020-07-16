@@ -1,0 +1,116 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	0	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+Learn.co Educational Content License	/Users/manon/Development/code/forms-and-basic-associations-rails-lab-london-web-career-031119/LICENSE.md	/^# Learn.co Educational Content License$/;"	function	line:1
+Song	/Users/manon/Development/code/forms-and-basic-associations-rails-lab-london-web-career-031119/app/models/song.rb	/^class Song < ActiveRecord::Base$/;"	class	line:1
+Genre	/Users/manon/Development/code/forms-and-basic-associations-rails-lab-london-web-career-031119/app/models/genre.rb	/^class Genre < ActiveRecord::Base$/;"	class	line:1
+Note	/Users/manon/Development/code/forms-and-basic-associations-rails-lab-london-web-career-031119/app/models/note.rb	/^class Note < ActiveRecord::Base$/;"	class	line:1
+Artist	/Users/manon/Development/code/forms-and-basic-associations-rails-lab-london-web-career-031119/app/models/artist.rb	/^class Artist < ActiveRecord::Base$/;"	class	line:1
+ApplicationController	/Users/manon/Development/code/forms-and-basic-associations-rails-lab-london-web-career-031119/app/controllers/application_controller.rb	/^class ApplicationController < ActionController::Base$/;"	class	line:1
+SongsController	/Users/manon/Development/code/forms-and-basic-associations-rails-lab-london-web-career-031119/app/controllers/songs_controller.rb	/^class SongsController < ApplicationController$/;"	class	line:1
+index	/Users/manon/Development/code/forms-and-basic-associations-rails-lab-london-web-career-031119/app/controllers/songs_controller.rb	/^  def index$/;"	method	line:2	class:SongsController
+show	/Users/manon/Development/code/forms-and-basic-associations-rails-lab-london-web-career-031119/app/controllers/songs_controller.rb	/^  def show$/;"	method	line:6	class:SongsController
+new	/Users/manon/Development/code/forms-and-basic-associations-rails-lab-london-web-career-031119/app/controllers/songs_controller.rb	/^  def new$/;"	method	line:10	class:SongsController
+create	/Users/manon/Development/code/forms-and-basic-associations-rails-lab-london-web-career-031119/app/controllers/songs_controller.rb	/^  def create$/;"	method	line:14	class:SongsController
+edit	/Users/manon/Development/code/forms-and-basic-associations-rails-lab-london-web-career-031119/app/controllers/songs_controller.rb	/^  def edit$/;"	method	line:24	class:SongsController
+update	/Users/manon/Development/code/forms-and-basic-associations-rails-lab-london-web-career-031119/app/controllers/songs_controller.rb	/^  def update$/;"	method	line:28	class:SongsController
+destroy	/Users/manon/Development/code/forms-and-basic-associations-rails-lab-london-web-career-031119/app/controllers/songs_controller.rb	/^  def destroy$/;"	method	line:40	class:SongsController
+song_params	/Users/manon/Development/code/forms-and-basic-associations-rails-lab-london-web-career-031119/app/controllers/songs_controller.rb	/^  def song_params$/;"	method	line:49	class:SongsController
+ArtistsController	/Users/manon/Development/code/forms-and-basic-associations-rails-lab-london-web-career-031119/app/controllers/artists_controller.rb	/^class ArtistsController < ApplicationController$/;"	class	line:1
+index	/Users/manon/Development/code/forms-and-basic-associations-rails-lab-london-web-career-031119/app/controllers/artists_controller.rb	/^  def index$/;"	method	line:2	class:ArtistsController
+show	/Users/manon/Development/code/forms-and-basic-associations-rails-lab-london-web-career-031119/app/controllers/artists_controller.rb	/^  def show$/;"	method	line:6	class:ArtistsController
+new	/Users/manon/Development/code/forms-and-basic-associations-rails-lab-london-web-career-031119/app/controllers/artists_controller.rb	/^  def new$/;"	method	line:10	class:ArtistsController
+create	/Users/manon/Development/code/forms-and-basic-associations-rails-lab-london-web-career-031119/app/controllers/artists_controller.rb	/^  def create$/;"	method	line:14	class:ArtistsController
+edit	/Users/manon/Development/code/forms-and-basic-associations-rails-lab-london-web-career-031119/app/controllers/artists_controller.rb	/^  def edit$/;"	method	line:24	class:ArtistsController
+update	/Users/manon/Development/code/forms-and-basic-associations-rails-lab-london-web-career-031119/app/controllers/artists_controller.rb	/^  def update$/;"	method	line:28	class:ArtistsController
+destroy	/Users/manon/Development/code/forms-and-basic-associations-rails-lab-london-web-career-031119/app/controllers/artists_controller.rb	/^  def destroy$/;"	method	line:40	class:ArtistsController
+artist_params	/Users/manon/Development/code/forms-and-basic-associations-rails-lab-london-web-career-031119/app/controllers/artists_controller.rb	/^  def artist_params$/;"	method	line:49	class:ArtistsController
+* Any CSS and SCSS file within this directory, lib/assets/stylesheets, vendor/assets/stylesheets	/Users/manon/Development/code/forms-and-basic-associations-rails-lab-london-web-career-031119/app/assets/stylesheets/application.css	/^ * Any CSS and SCSS file within this directory, lib\/assets\/stylesheets, vendor\/assets\/stylesheets,$/;"	function	line:5
+SongsHelper	/Users/manon/Development/code/forms-and-basic-associations-rails-lab-london-web-career-031119/app/helpers/songs_helper.rb	/^module SongsHelper$/;"	module	line:1
+ArtistsHelper	/Users/manon/Development/code/forms-and-basic-associations-rails-lab-london-web-career-031119/app/helpers/artists_helper.rb	/^module ArtistsHelper$/;"	module	line:1
+ApplicationHelper	/Users/manon/Development/code/forms-and-basic-associations-rails-lab-london-web-career-031119/app/helpers/application_helper.rb	/^module ApplicationHelper$/;"	module	line:1
+ActiveSupport	/Users/manon/Development/code/forms-and-basic-associations-rails-lab-london-web-career-031119/test/test_helper.rb	/^class ActiveSupport::TestCase$/;"	class	line:5
+system!	/Users/manon/Development/code/forms-and-basic-associations-rails-lab-london-web-career-031119/bin/update	/^def system!(*args)$/;"	method	line:9
+system!	/Users/manon/Development/code/forms-and-basic-associations-rails-lab-london-web-career-031119/bin/setup	/^def system!(*args)$/;"	method	line:9
+development	/Users/manon/Development/code/forms-and-basic-associations-rails-lab-london-web-career-031119/config/secrets.yml	/^development:$/;"	function	line:13
+secret_key_base	/Users/manon/Development/code/forms-and-basic-associations-rails-lab-london-web-career-031119/config/secrets.yml	/^  secret_key_base: 320cd85f07c33c6fdc86765a516c0e9e2a68dc6a673f0c3deaef91ce8fedca493b38eec302289e848b24b2ab35e85b921ee9b2a9184b56486abc15923c962a6b$/;"	function	line:14
+test	/Users/manon/Development/code/forms-and-basic-associations-rails-lab-london-web-career-031119/config/secrets.yml	/^test:$/;"	function	line:16
+secret_key_base	/Users/manon/Development/code/forms-and-basic-associations-rails-lab-london-web-career-031119/config/secrets.yml	/^  secret_key_base: 94919df044f55f6b900944e6c5feb932024c10bfd978b0aedb0817b7926df2c8670f6022337abc1be446624bead3b5492d8dcc860b87eceb271209b9d94f70ae$/;"	function	line:17
+production	/Users/manon/Development/code/forms-and-basic-associations-rails-lab-london-web-career-031119/config/secrets.yml	/^production:$/;"	function	line:21
+secret_key_base	/Users/manon/Development/code/forms-and-basic-associations-rails-lab-london-web-career-031119/config/secrets.yml	/^  secret_key_base: <%= ENV["SECRET_KEY_BASE"] %>$/;"	function	line:22
+en	/Users/manon/Development/code/forms-and-basic-associations-rails-lab-london-web-career-031119/config/locales/en.yml	/^en:$/;"	function	line:22
+hello	/Users/manon/Development/code/forms-and-basic-associations-rails-lab-london-web-career-031119/config/locales/en.yml	/^  hello: "Hello world"$/;"	function	line:23
+development	/Users/manon/Development/code/forms-and-basic-associations-rails-lab-london-web-career-031119/config/cable.yml	/^development:$/;"	function	line:1
+adapter	/Users/manon/Development/code/forms-and-basic-associations-rails-lab-london-web-career-031119/config/cable.yml	/^  adapter: async$/;"	function	line:2
+test	/Users/manon/Development/code/forms-and-basic-associations-rails-lab-london-web-career-031119/config/cable.yml	/^test:$/;"	function	line:4
+adapter	/Users/manon/Development/code/forms-and-basic-associations-rails-lab-london-web-career-031119/config/cable.yml	/^  adapter: async$/;"	function	line:5
+production	/Users/manon/Development/code/forms-and-basic-associations-rails-lab-london-web-career-031119/config/cable.yml	/^production:$/;"	function	line:7
+adapter	/Users/manon/Development/code/forms-and-basic-associations-rails-lab-london-web-career-031119/config/cable.yml	/^  adapter: redis$/;"	function	line:8
+url	/Users/manon/Development/code/forms-and-basic-associations-rails-lab-london-web-career-031119/config/cable.yml	/^  url: redis:\/\/localhost:6379\/1$/;"	function	line:9
+FormsAndBasicAssociationsRailsLab	/Users/manon/Development/code/forms-and-basic-associations-rails-lab-london-web-career-031119/config/application.rb	/^module FormsAndBasicAssociationsRailsLab$/;"	module	line:9
+Application	/Users/manon/Development/code/forms-and-basic-associations-rails-lab-london-web-career-031119/config/application.rb	/^  class Application < Rails::Application$/;"	class	line:10	class:FormsAndBasicAssociationsRailsLab
+default	/Users/manon/Development/code/forms-and-basic-associations-rails-lab-london-web-career-031119/config/database.yml	/^default: &default$/;"	function	line:7
+adapter	/Users/manon/Development/code/forms-and-basic-associations-rails-lab-london-web-career-031119/config/database.yml	/^  adapter: sqlite3$/;"	function	line:8
+pool	/Users/manon/Development/code/forms-and-basic-associations-rails-lab-london-web-career-031119/config/database.yml	/^  pool: 5$/;"	function	line:9
+timeout	/Users/manon/Development/code/forms-and-basic-associations-rails-lab-london-web-career-031119/config/database.yml	/^  timeout: 5000$/;"	function	line:10
+development	/Users/manon/Development/code/forms-and-basic-associations-rails-lab-london-web-career-031119/config/database.yml	/^development:$/;"	function	line:12
+database	/Users/manon/Development/code/forms-and-basic-associations-rails-lab-london-web-career-031119/config/database.yml	/^  database: db\/development.sqlite3$/;"	function	line:14
+test	/Users/manon/Development/code/forms-and-basic-associations-rails-lab-london-web-career-031119/config/database.yml	/^test:$/;"	function	line:19
+database	/Users/manon/Development/code/forms-and-basic-associations-rails-lab-london-web-career-031119/config/database.yml	/^  database: db\/test.sqlite3$/;"	function	line:21
+production	/Users/manon/Development/code/forms-and-basic-associations-rails-lab-london-web-career-031119/config/database.yml	/^production:$/;"	function	line:23
+database	/Users/manon/Development/code/forms-and-basic-associations-rails-lab-london-web-career-031119/config/database.yml	/^  database: db\/production.sqlite3$/;"	function	line:25
+Forms And Basic Associations Rails Lab	/Users/manon/Development/code/forms-and-basic-associations-rails-lab-london-web-career-031119/README.md	/^# Forms And Basic Associations Rails Lab$/;"	function	line:1
+Objectives	/Users/manon/Development/code/forms-and-basic-associations-rails-lab-london-web-career-031119/README.md	/^## Objectives$/;"	function	line:3
+A song library	/Users/manon/Development/code/forms-and-basic-associations-rails-lab-london-web-career-031119/README.md	/^## A song library$/;"	function	line:8
+Instructions	/Users/manon/Development/code/forms-and-basic-associations-rails-lab-london-web-career-031119/README.md	/^## Instructions$/;"	function	line:26
+html	/Users/manon/Development/code/forms-and-basic-associations-rails-lab-london-web-career-031119/public/422.html	/^<html>$/;"	function	line:2
+head	/Users/manon/Development/code/forms-and-basic-associations-rails-lab-london-web-career-031119/public/422.html	/^<head>$/;"	function	line:3
+title	/Users/manon/Development/code/forms-and-basic-associations-rails-lab-london-web-career-031119/public/422.html	/^  <title>The change you wanted was rejected (422)<\/title>$/;"	function	line:4
+meta	/Users/manon/Development/code/forms-and-basic-associations-rails-lab-london-web-career-031119/public/422.html	/^  <meta name="viewport" content="width=device-width,initial-scale=1">$/;"	function	line:5
+style	/Users/manon/Development/code/forms-and-basic-associations-rails-lab-london-web-career-031119/public/422.html	/^  <style>$/;"	function	line:6
+body	/Users/manon/Development/code/forms-and-basic-associations-rails-lab-london-web-career-031119/public/422.html	/^<body>$/;"	function	line:57
+div	/Users/manon/Development/code/forms-and-basic-associations-rails-lab-london-web-career-031119/public/422.html	/^  <div class="dialog">$/;"	function	line:59
+div	/Users/manon/Development/code/forms-and-basic-associations-rails-lab-london-web-career-031119/public/422.html	/^    <div>$/;"	function	line:60
+h	/Users/manon/Development/code/forms-and-basic-associations-rails-lab-london-web-career-031119/public/422.html	/^      <h1>The change you wanted was rejected.<\/h1>$/;"	function	line:61
+p	/Users/manon/Development/code/forms-and-basic-associations-rails-lab-london-web-career-031119/public/422.html	/^      <p>Maybe you tried to change something you didn't have access to.<\/p>$/;"	function	line:62
+p	/Users/manon/Development/code/forms-and-basic-associations-rails-lab-london-web-career-031119/public/422.html	/^    <p>If you are the application owner check the logs for more information.<\/p>$/;"	function	line:64
+html	/Users/manon/Development/code/forms-and-basic-associations-rails-lab-london-web-career-031119/public/500.html	/^<html>$/;"	function	line:2
+head	/Users/manon/Development/code/forms-and-basic-associations-rails-lab-london-web-career-031119/public/500.html	/^<head>$/;"	function	line:3
+title	/Users/manon/Development/code/forms-and-basic-associations-rails-lab-london-web-career-031119/public/500.html	/^  <title>We're sorry, but something went wrong (500)<\/title>$/;"	function	line:4
+meta	/Users/manon/Development/code/forms-and-basic-associations-rails-lab-london-web-career-031119/public/500.html	/^  <meta name="viewport" content="width=device-width,initial-scale=1">$/;"	function	line:5
+style	/Users/manon/Development/code/forms-and-basic-associations-rails-lab-london-web-career-031119/public/500.html	/^  <style>$/;"	function	line:6
+body	/Users/manon/Development/code/forms-and-basic-associations-rails-lab-london-web-career-031119/public/500.html	/^<body>$/;"	function	line:57
+div	/Users/manon/Development/code/forms-and-basic-associations-rails-lab-london-web-career-031119/public/500.html	/^  <div class="dialog">$/;"	function	line:59
+div	/Users/manon/Development/code/forms-and-basic-associations-rails-lab-london-web-career-031119/public/500.html	/^    <div>$/;"	function	line:60
+h	/Users/manon/Development/code/forms-and-basic-associations-rails-lab-london-web-career-031119/public/500.html	/^      <h1>We're sorry, but something went wrong.<\/h1>$/;"	function	line:61
+p	/Users/manon/Development/code/forms-and-basic-associations-rails-lab-london-web-career-031119/public/500.html	/^    <p>If you are the application owner check the logs for more information.<\/p>$/;"	function	line:63
+html	/Users/manon/Development/code/forms-and-basic-associations-rails-lab-london-web-career-031119/public/404.html	/^<html>$/;"	function	line:2
+head	/Users/manon/Development/code/forms-and-basic-associations-rails-lab-london-web-career-031119/public/404.html	/^<head>$/;"	function	line:3
+title	/Users/manon/Development/code/forms-and-basic-associations-rails-lab-london-web-career-031119/public/404.html	/^  <title>The page you were looking for doesn't exist (404)<\/title>$/;"	function	line:4
+meta	/Users/manon/Development/code/forms-and-basic-associations-rails-lab-london-web-career-031119/public/404.html	/^  <meta name="viewport" content="width=device-width,initial-scale=1">$/;"	function	line:5
+style	/Users/manon/Development/code/forms-and-basic-associations-rails-lab-london-web-career-031119/public/404.html	/^  <style>$/;"	function	line:6
+body	/Users/manon/Development/code/forms-and-basic-associations-rails-lab-london-web-career-031119/public/404.html	/^<body>$/;"	function	line:57
+div	/Users/manon/Development/code/forms-and-basic-associations-rails-lab-london-web-career-031119/public/404.html	/^  <div class="dialog">$/;"	function	line:59
+div	/Users/manon/Development/code/forms-and-basic-associations-rails-lab-london-web-career-031119/public/404.html	/^    <div>$/;"	function	line:60
+h	/Users/manon/Development/code/forms-and-basic-associations-rails-lab-london-web-career-031119/public/404.html	/^      <h1>The page you were looking for doesn't exist.<\/h1>$/;"	function	line:61
+p	/Users/manon/Development/code/forms-and-basic-associations-rails-lab-london-web-career-031119/public/404.html	/^      <p>You may have mistyped the address or the page may have moved.<\/p>$/;"	function	line:62
+p	/Users/manon/Development/code/forms-and-basic-associations-rails-lab-london-web-career-031119/public/404.html	/^    <p>If you are the application owner check the logs for more information.<\/p>$/;"	function	line:64
+Contributing to Learn.co Curriculum	/Users/manon/Development/code/forms-and-basic-associations-rails-lab-london-web-career-031119/CONTRIBUTING.md	/^# Contributing to Learn.co Curriculum$/;"	function	line:1
+Raising an Issue to Encourage a Contribution	/Users/manon/Development/code/forms-and-basic-associations-rails-lab-london-web-career-031119/CONTRIBUTING.md	/^## Raising an Issue to Encourage a Contribution$/;"	function	line:8
+Submitting a Pull Request to Suggest an Improvement	/Users/manon/Development/code/forms-and-basic-associations-rails-lab-london-web-career-031119/CONTRIBUTING.md	/^## Submitting a Pull Request to Suggest an Improvement$/;"	function	line:16
+Why Contribute?	/Users/manon/Development/code/forms-and-basic-associations-rails-lab-london-web-career-031119/CONTRIBUTING.md	/^# Why Contribute?$/;"	function	line:28
+AddArtistIdAndGenreIdToSongs	/Users/manon/Development/code/forms-and-basic-associations-rails-lab-london-web-career-031119/db/migrate/20160114013222_add_artist_id_and_genre_id_to_songs.rb	/^class AddArtistIdAndGenreIdToSongs < ActiveRecord::Migration$/;"	class	line:1
+change	/Users/manon/Development/code/forms-and-basic-associations-rails-lab-london-web-career-031119/db/migrate/20160114013222_add_artist_id_and_genre_id_to_songs.rb	/^  def change$/;"	method	line:2	class:AddArtistIdAndGenreIdToSongs
+CreateNotes	/Users/manon/Development/code/forms-and-basic-associations-rails-lab-london-web-career-031119/db/migrate/20160112163315_create_notes.rb	/^class CreateNotes < ActiveRecord::Migration$/;"	class	line:1
+change	/Users/manon/Development/code/forms-and-basic-associations-rails-lab-london-web-career-031119/db/migrate/20160112163315_create_notes.rb	/^  def change$/;"	method	line:2	class:CreateNotes
+CreateGenres	/Users/manon/Development/code/forms-and-basic-associations-rails-lab-london-web-career-031119/db/migrate/20160112163306_create_genres.rb	/^class CreateGenres < ActiveRecord::Migration$/;"	class	line:1
+change	/Users/manon/Development/code/forms-and-basic-associations-rails-lab-london-web-career-031119/db/migrate/20160112163306_create_genres.rb	/^  def change$/;"	method	line:2	class:CreateGenres
+CreateSongs	/Users/manon/Development/code/forms-and-basic-associations-rails-lab-london-web-career-031119/db/migrate/20160112163253_create_songs.rb	/^class CreateSongs < ActiveRecord::Migration$/;"	class	line:1
+change	/Users/manon/Development/code/forms-and-basic-associations-rails-lab-london-web-career-031119/db/migrate/20160112163253_create_songs.rb	/^  def change$/;"	method	line:2	class:CreateSongs
+AddSongIdToNotes	/Users/manon/Development/code/forms-and-basic-associations-rails-lab-london-web-career-031119/db/migrate/20160114013240_add_song_id_to_notes.rb	/^class AddSongIdToNotes < ActiveRecord::Migration$/;"	class	line:1
+change	/Users/manon/Development/code/forms-and-basic-associations-rails-lab-london-web-career-031119/db/migrate/20160114013240_add_song_id_to_notes.rb	/^  def change$/;"	method	line:2	class:AddSongIdToNotes
+CreateArtists	/Users/manon/Development/code/forms-and-basic-associations-rails-lab-london-web-career-031119/db/migrate/20160112163230_create_artists.rb	/^class CreateArtists < ActiveRecord::Migration$/;"	class	line:1
+change	/Users/manon/Development/code/forms-and-basic-associations-rails-lab-london-web-career-031119/db/migrate/20160112163230_create_artists.rb	/^  def change$/;"	method	line:2	class:CreateArtists
